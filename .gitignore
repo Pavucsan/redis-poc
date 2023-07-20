@@ -23,7 +23,9 @@
 hs_err_pid*
 replay_pid*
 
-*/.idea
+.idea/
+.mvn/
+target/
 
 
 
